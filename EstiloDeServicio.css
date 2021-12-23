@@ -1,0 +1,86 @@
+html{
+    margin: 0%;
+    padding: auto;
+    background-color: rgba( red, green, blue, alpha);
+}
+
+body{
+    background-color: #9fbdf5;
+
+}
+
+.Contenedor{
+    margin: 0%;
+    margin-left: 20%;
+    height: 420px;
+    width: 50%;
+    display: flex;
+    border-radius: 7px;
+    box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    box-sizing: border-box;
+   
+}
+
+body h1{
+    font-family: sans-serif;
+    margin-left: 38px;
+    padding-left: 30%;
+    padding-top: 52px;
+    font-size: 34px;
+    color: #1c2e3d;
+    
+}
+.Primer-Paso h3{
+    padding-left: 15%;
+}
+
+.Segundo-Paso h3{
+    padding-left: 15%;
+}
+
+.Tercer-Paso h3{
+    padding-left: 15%;
+}
+.Primer-Paso{
+    
+    padding-top: 5%;
+    line-height: 1.7em;
+    width: 50%;
+    border-radius: 0px 7px 10px 7px;
+    background: #fff;
+    margin-bottom: 0%;
+    font-family: serif;
+    
+}
+.Segundo-Paso{
+
+    padding-top: 5%;
+    line-height: 1.7em;
+    
+    width: 50%;
+    border-radius: 0px 7px 10px 7px;
+    background: #fff;
+}
+
+.Tercer-Paso{
+    
+    padding-top: 5%;
+    line-height: 1.7em;
+
+    width: 50%;
+    border-radius: 0px 7px 10px 7px;
+    background: #fff;
+}
+
+.Piecito{
+    width: 50%;
+    margin: 0%;
+    border-radius: 0px 7px 10px 7px;
+    padding-left: 38%;
+
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #1c2e3d;
+    
+}
